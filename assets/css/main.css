@@ -2112,11 +2112,11 @@ input, select, textarea {
     }
  
         #top .image {
+            display: flex;
             border-radius: 100%;
-            height: 20em;
-            width: 20em;
-            margin: 0;
-			
+            height: 400px;
+            width: 400px;
+            margin: auto 200px;
         }
  
             #top .image img {
